@@ -79,7 +79,7 @@ crontab -e
 crontab -l
 
 ```
-![Seçim_039](https://user-images.githubusercontent.com/120065120/214652636-c16e3413-88f8-469d-aa10-deac7cb567ff.png)
+
 
 
 ## Task Scheduler - Windows
