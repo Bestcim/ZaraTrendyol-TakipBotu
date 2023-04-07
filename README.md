@@ -68,9 +68,6 @@ crontab -e
 ![Seçim_038](https://user-images.githubusercontent.com/120065120/214651904-e2a786cc-f468-46db-802a-333a0aee86ea.png)
 
 - En alt kısıma iniyoruz.
-```
-*/3 * * * * /usr/bin/python3 /home/erkam/Flask/Zara/main.py
-```
 - */3 * * * * = Her 3 dakikada bir çalışıcak. Zaman ayarı için [tıklayınız](https://crontab.guru/).
 - /usr/bin/python3 = Python PATH
 - /home/erkam/Flask/Zara/main.py = Python dosyamızın PATH i
